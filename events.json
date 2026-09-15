@@ -1,6 +1,15 @@
 {
  "events": [
   {
+   "id": "6vlo42el9rt9ioojpe9auug00p@google.com",
+   "title": "NFL: Lions vs. Bills",
+   "start": "2026-09-17T17:15:00Z",
+   "end": "2026-09-17T20:15:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
    "id": "93E60E1E-B1A6-4FC4-9AB3-316E9C3C5C03",
    "title": "Asian disco event",
    "start": "2026-09-19T00:00:00-07:00",
@@ -10,14 +19,59 @@
    "url": ""
   },
   {
-   "id": "5u2lm75meaottaqafkpjvpffd8@google.com",
-   "title": "Tran Asian Event",
-   "start": "2026-10-10T00:00:00-07:00",
-   "end": "2026-10-11T00:00:00-07:00",
-   "allDay": true,
+   "id": "7d8jg60n2rq553mr35epi6ks04@google.com",
+   "title": "NFL: Eagles vs. Titans",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "0eohlilv4980icdhoaprd0rsoe@google.com",
+   "title": "NFL: Panthers vs. Falcons",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "4uce0ftt9hbbd95gvq13vckga2@google.com",
+   "title": "NFL: Bengals vs. Texans",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "1n5b45hobde1qsh13ff1fl2al3@google.com",
+   "title": "NFL: Packers vs. Jets",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "3a62orr841r9s1euege43ic7qp@google.com",
+   "title": "NFL: Browns vs. Buccaneers",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "1gcmunepn3bgtkha718743cc0h@google.com",
+   "title": "NFL: Steelers vs. Patriots",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
    "location": "",
    "url": ""
   }
  ],
- "updatedAt": "2026-09-15T01:41:58.081Z"
+ "updatedAt": "2026-09-15T06:44:51.382Z"
 }
