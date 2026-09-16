@@ -37,6 +37,15 @@
    "url": ""
   },
   {
+   "id": "0eohlilv4980icdhoaprd0rsoe@google.com",
+   "title": "NFL: Panthers vs. Falcons",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
    "id": "1gcmunepn3bgtkha718743cc0h@google.com",
    "title": "NFL: Steelers vs. Patriots",
    "start": "2026-09-20T10:00:00Z",
@@ -62,16 +71,7 @@
    "allDay": false,
    "location": "",
    "url": ""
-  },
-  {
-   "id": "006tbldjsbc0v80vp40hnl2vrh@google.com",
-   "title": "NFL: Saints vs. Ravens",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
   }
  ],
- "updatedAt": "2026-09-15T22:56:12.576Z"
+ "updatedAt": "2026-09-16T01:07:59.462Z"
 }
