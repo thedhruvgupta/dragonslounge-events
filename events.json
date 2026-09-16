@@ -19,26 +19,17 @@
    "url": ""
   },
   {
+   "id": "3egskmhum4phukedivs9mb2m7c@google.com",
+   "title": "NFL: Vikings vs. Bears",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
    "id": "4uce0ftt9hbbd95gvq13vckga2@google.com",
    "title": "NFL: Bengals vs. Texans",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "7d8jg60n2rq553mr35epi6ks04@google.com",
-   "title": "NFL: Eagles vs. Titans",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "0eohlilv4980icdhoaprd0rsoe@google.com",
-   "title": "NFL: Panthers vs. Falcons",
    "start": "2026-09-20T10:00:00Z",
    "end": "2026-09-20T13:00:00Z",
    "allDay": false,
@@ -55,8 +46,8 @@
    "url": ""
   },
   {
-   "id": "3a62orr841r9s1euege43ic7qp@google.com",
-   "title": "NFL: Browns vs. Buccaneers",
+   "id": "7d8jg60n2rq553mr35epi6ks04@google.com",
+   "title": "NFL: Eagles vs. Titans",
    "start": "2026-09-20T10:00:00Z",
    "end": "2026-09-20T13:00:00Z",
    "allDay": false,
@@ -64,8 +55,17 @@
    "url": ""
   },
   {
-   "id": "3egskmhum4phukedivs9mb2m7c@google.com",
-   "title": "NFL: Vikings vs. Bears",
+   "id": "1gcmunepn3bgtkha718743cc0h@google.com",
+   "title": "NFL: Steelers vs. Patriots",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
+   "id": "3a62orr841r9s1euege43ic7qp@google.com",
+   "title": "NFL: Browns vs. Buccaneers",
    "start": "2026-09-20T10:00:00Z",
    "end": "2026-09-20T13:00:00Z",
    "allDay": false,
@@ -73,5 +73,5 @@
    "url": ""
   }
  ],
- "updatedAt": "2026-09-16T11:31:34.610Z"
+ "updatedAt": "2026-09-16T15:32:54.348Z"
 }
