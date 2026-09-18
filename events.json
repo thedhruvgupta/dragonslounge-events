@@ -1,15 +1,6 @@
 {
  "events": [
   {
-   "id": "6vlo42el9rt9ioojpe9auug00p@google.com",
-   "title": "NFL: Lions vs. Bills",
-   "start": "2026-09-17T17:15:00Z",
-   "end": "2026-09-17T20:15:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
    "id": "93E60E1E-B1A6-4FC4-9AB3-316E9C3C5C03",
    "title": "Asian disco event",
    "start": "2026-09-19T00:00:00-07:00",
@@ -19,8 +10,8 @@
    "url": ""
   },
   {
-   "id": "006tbldjsbc0v80vp40hnl2vrh@google.com",
-   "title": "NFL: Saints vs. Ravens",
+   "id": "4uce0ftt9hbbd95gvq13vckga2@google.com",
+   "title": "NFL: Bengals vs. Texans",
    "start": "2026-09-20T10:00:00Z",
    "end": "2026-09-20T13:00:00Z",
    "allDay": false,
@@ -71,7 +62,16 @@
    "allDay": false,
    "location": "",
    "url": ""
+  },
+  {
+   "id": "1n5b45hobde1qsh13ff1fl2al3@google.com",
+   "title": "NFL: Packers vs. Jets",
+   "start": "2026-09-20T10:00:00Z",
+   "end": "2026-09-20T13:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
   }
  ],
- "updatedAt": "2026-09-17T22:09:06.238Z"
+ "updatedAt": "2026-09-18T00:17:34.051Z"
 }
