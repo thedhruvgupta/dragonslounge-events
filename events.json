@@ -1,77 +1,23 @@
 {
  "events": [
   {
-   "id": "0eohlilv4980icdhoaprd0rsoe@google.com",
-   "title": "NFL: Panthers vs. Falcons",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
+   "id": "58c5qh8brm4impmjuhrr9gre45@google.com",
+   "title": "NFL: Giants vs. Rams",
+   "start": "2026-09-21T17:15:00Z",
+   "end": "2026-09-21T20:15:00Z",
    "allDay": false,
    "location": "",
    "url": ""
   },
   {
-   "id": "1gcmunepn3bgtkha718743cc0h@google.com",
-   "title": "NFL: Steelers vs. Patriots",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "7d8jg60n2rq553mr35epi6ks04@google.com",
-   "title": "NFL: Eagles vs. Titans",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "4uce0ftt9hbbd95gvq13vckga2@google.com",
-   "title": "NFL: Bengals vs. Texans",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "3egskmhum4phukedivs9mb2m7c@google.com",
-   "title": "NFL: Vikings vs. Bears",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "1n5b45hobde1qsh13ff1fl2al3@google.com",
-   "title": "NFL: Packers vs. Jets",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "3a62orr841r9s1euege43ic7qp@google.com",
-   "title": "NFL: Browns vs. Buccaneers",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
-   "id": "006tbldjsbc0v80vp40hnl2vrh@google.com",
-   "title": "NFL: Saints vs. Ravens",
-   "start": "2026-09-20T10:00:00Z",
-   "end": "2026-09-20T13:00:00Z",
-   "allDay": false,
+   "id": "5u2lm75meaottaqafkpjvpffd8@google.com",
+   "title": "Tran Asian Event",
+   "start": "2026-10-10T00:00:00-07:00",
+   "end": "2026-10-11T00:00:00-07:00",
+   "allDay": true,
    "location": "",
    "url": ""
   }
  ],
- "updatedAt": "2026-09-20T23:05:55.016Z"
+ "updatedAt": "2026-09-21T01:03:53.192Z"
 }
