@@ -1,15 +1,6 @@
 {
  "events": [
   {
-   "id": "58c5qh8brm4impmjuhrr9gre45@google.com",
-   "title": "NFL: Giants vs. Rams",
-   "start": "2026-09-21T17:15:00Z",
-   "end": "2026-09-21T20:15:00Z",
-   "allDay": false,
-   "location": "",
-   "url": ""
-  },
-  {
    "id": "5u2lm75meaottaqafkpjvpffd8@google.com",
    "title": "Tran Asian Event",
    "start": "2026-10-10T00:00:00-07:00",
@@ -19,5 +10,5 @@
    "url": ""
   }
  ],
- "updatedAt": "2026-09-21T22:14:53.195Z"
+ "updatedAt": "2026-09-22T00:53:08.178Z"
 }
