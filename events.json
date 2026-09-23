@@ -1,6 +1,15 @@
 {
  "events": [
   {
+   "id": "A1175884-69F7-4166-A89C-BE2ADE120544",
+   "title": "Church group Tokyo group",
+   "start": "2026-09-23T21:00:00Z",
+   "end": "2026-09-24T00:00:00Z",
+   "allDay": false,
+   "location": "",
+   "url": ""
+  },
+  {
    "id": "5u2lm75meaottaqafkpjvpffd8@google.com",
    "title": "Tran Asian Event",
    "start": "2026-10-10T00:00:00-07:00",
@@ -10,5 +19,5 @@
    "url": ""
   }
  ],
- "updatedAt": "2026-09-23T18:48:53.438Z"
+ "updatedAt": "2026-09-23T22:01:49.748Z"
 }
